@@ -26,7 +26,7 @@ Full Stack Spotify Clone with Next.js 13.4 App Router: React, Tailwind, Supabase
 
 ### Prerequisites
 
-**Node version 14.x**
+**Node version 13.x**
 
 ### Cloning the repository
 
